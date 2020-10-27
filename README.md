@@ -2,7 +2,7 @@
 ### Hi there 👋 I am  Shekhar Arya 💻 
 
 
-<img align="center" alt="JPG" src="https://github.com/sahilrajput2223/sahilrajput2223/blob/main/main.jpg" width="100%" height = "100%" />
+<img align="center" alt="JPG" src="https://github.com/Shekhar-Arya/Shekhar-Arya/blob/main/main.jpg" width="100%" height = "100%" />
 
 ---
 
