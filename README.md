@@ -1,32 +1,61 @@
+<h1 align="left">Hey there :wave: Myself Shekhar Arya</h1>
 
-### Hi there 👋 I am  Shekhar Arya 💻 
+###
 
+<h3 align="left">:computer: Software Engineer :computer:</h3>
 
-<img align="center" alt="JPG" src="https://github.com/Shekhar-Arya/Shekhar-Arya/blob/main/main.jpg" width="100%" height = "100%" />
+###
+
+<p align="left">I am an experienced developer skilled in Java with database MySQL and tools like redis, NSQ, Flyway and etc.</p>
+
+###
+
+###
+---
+<h3 align="left"><br>Tech skills :</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="45" alt="jquery logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" height="45" alt="redis logo"  />
+</div>
+
+###
 
 ---
+###
 
-### About me: 🤗😀
+<h3 align="left">:bar_chart: Github Statistics :</h3>
 
-- ⚡ Keenly interested in learning new technologies 
-
-- 🌱 I’m currently learning Spring and Spring Boot 
-
-- 👯 I’m looking forward to learn about javascript, angular and flutter
-
-- 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-ShekharArya-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shekhar-arya-473737186/)](https://www.linkedin.com/in/shekhar-arya-473737186/) [![Gmail Badge](https://img.shields.io/badge/-ShekharArya-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:9925648129shekhar@gmail.com)](mailto:9925648129shekhar@gmail.com)
-<!--
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40sahil__2223)](https://twitter.com/sahil__2223) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shekhar-Arya&hide=stars&show_icons=true&line_height=30&theme=gruvbox">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shekhar-Arya&count_private=true&layout=pie&theme=gruvbox">
+</div>
 
 ---
+###
 
-**Github Stats:**
+<h3 align="left">:mailbox_closed: How to reach me :</h3>
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Shekhar-Arya&hide=stars&show_icons=true&line_height=48">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shekhar-Arya&count_private=true">
+<div align="left">
+    <a href="https://in.linkedin.com/in/shekhar-arya" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="shekhararya2705@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-</p>
-
----
+###
